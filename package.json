@@ -1,0 +1,21 @@
+{
+  "name": "mern-auth-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rushabh197/MERN-Authentication.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rushabh197/MERN-Authentication/issues"
+  },
+  "homepage": "https://github.com/rushabh197/MERN-Authentication#readme"
+}
